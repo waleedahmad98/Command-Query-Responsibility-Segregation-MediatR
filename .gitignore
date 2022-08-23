@@ -1,3 +1,4 @@
 .vs
 .vscode
-/CQRS\ using\ MediatR/obj
+/CQRS using MediatR/obj
+obj
